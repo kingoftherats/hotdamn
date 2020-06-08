@@ -1,0 +1,14 @@
+{
+  "name": "hotdamn.domain",
+  "version": "1.0.0",
+  "description": "Hot Damn database interface with core models and repository layer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Davison",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.9.18"
+  }
+}

@@ -1,0 +1,3 @@
+const loggingControllerBase = loggingConfig => {
+    
+}

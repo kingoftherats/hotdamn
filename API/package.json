@@ -1,0 +1,22 @@
+{
+  "name": "hotdamn.api",
+  "version": "1.0.0",
+  "description": "Hot Damn REST API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "Matthew Davison",
+  "license": "MIT",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "winston": "^3.2.1"
+  }
+}
